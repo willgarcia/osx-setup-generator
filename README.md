@@ -10,7 +10,7 @@ This project aims to:
 * speed up the backup of your favorite tools/packages installed via `Brew` and `Cask`
 * automate OSX fresh installs or updates
 
-It is far from revolutionary, nevertheless, restore in no time my ecosystem on a personal machine - with only 2/3 generated files - seems to be a good deal!
+It is far from revolutionary, nevertheless, it seems a good deal to restore in no time my ecosystem on a personal machine - with only 2/3 generated files!
 
 requirements
 ------------
