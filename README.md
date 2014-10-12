@@ -16,7 +16,7 @@ requirements
 ------------
 
 * [Brew](https://github.com/Homebrew/homebrew)
-* [Brew-Cask](https://github.com/Homebrew/homebrew)
+* [Brew-Cask](https://github.com/caskroom/homebrew-cask)
 
 Check if you meet the requirements by running these commands:
 
@@ -34,8 +34,8 @@ This step generates/maintains your OSX setup:
 
 Example of each generated files:
 
-    * (Brewfile)[Brewfile]
-    * (Caskfile)[Caskfile]
+    * (Brewfile)[Brewfile-generated]
+    * (Caskfile)[Caskfile-generated]
 
 If Github API rate limit is reached, see here how to create a Github API token and then how to set `HOMEBREW_GITHUB_API_TOKEN`: 
 * [Github setup](https://github.com/settings/applications)
