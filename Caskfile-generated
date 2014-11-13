@@ -3,6 +3,7 @@ boot2docker
 caffeine
 calibre
 charles
+chefdk
 chrome-remote-desktop-host
 cinch
 dropbox
@@ -26,3 +27,12 @@ vagrant
 vienna
 virtualbox
 xquartz
+
+
+    chef.data_bags_path = "data_bags"
+
+    #Metadata configuration
+    default[:metadata][:application_name] = 'metadata'
+    default[:metadata][:application_path] = '/usr/local/metadata'
+    default[:metadata][:application_version] = '1.0.0'
+    default[:metadata][:war_uri] = 'http://10.0.1.173/metadata.war'
