@@ -5,6 +5,7 @@ cairo
 fish
 fontconfig
 freetype
+gdbm
 gdk-pixbuf
 gettext
 git
@@ -21,8 +22,6 @@ libffi
 libpng
 libtiff
 libtool
-meld
-mongodb
 ncdu
 node
 openssl
@@ -33,8 +32,12 @@ py2cairo
 pygobject
 pygtk
 pygtksourceview
+python
 qt
 rarian
+readline
+sqlite
+tig
 tree
 unrar
 wget
