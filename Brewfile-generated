@@ -1,6 +1,8 @@
 atk
+atomicparsley
 autoconf
 autojump
+automake
 beecrypt
 berkeley-db
 boot2docker
@@ -8,6 +10,7 @@ brew-cask
 cairo
 composer
 docker
+ffmpeg
 fig
 fish
 fontconfig
@@ -28,6 +31,7 @@ imagemagick
 intltool
 jpeg
 kdiff3
+lame
 libevent
 libffi
 libmagic
@@ -36,6 +40,7 @@ libpng
 libtasn1
 libtiff
 libtool
+libvo-aacenc
 libyaml
 memcached
 ncdu
@@ -46,6 +51,7 @@ ossp-uuid
 pango
 pcre
 php56
+php56-igbinary
 php56-memcached
 pixman
 pkg-config
@@ -69,5 +75,8 @@ unrar
 watch
 webkit2png
 wget
+x264
+xvid
 xz
+youtube-dl
 zlib
