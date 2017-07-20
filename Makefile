@@ -10,7 +10,7 @@ check:
 		) && \
 		exit 1 \
 	)
-	@brew cask > /dev/null 2>&1 || ( \
+	@brew cask --version > /dev/null 2>&1 || ( \
 		( \
 			echo "\033[31mbrew-cask is not installed! Run this command:" && \
 			echo "\033[33mbrew install caskroom/cask/brew-cask\033[0m" \
